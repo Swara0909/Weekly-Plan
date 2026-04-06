@@ -40,3 +40,9 @@ print(np.linalg.trace(A))
 
 # Norm of a matrix
 print(np.linalg.norm(A))
+
+# Z-Score Normalization
+data = np.array([10, 20, 30, 40, 50])
+
+z = (data - np.mean(data)) / np.std(data)
+print(z)

@@ -1,4 +1,22 @@
-## Week2:
+# 🚀 7-Week Learning Roadmap (Machine Learning + AI)
+
+---
+
+## 📅 Week 1: Python + Mathematics for Machine Learning
+
+### 🔹 Focus Areas:
+- Python (functions, OOP, APIs)
+- NumPy, Pandas
+- Linear Algebra (vectors, matrices)
+- Probability basics
+
+### 🎯 Outcome:
+- Strong coding foundation
+- Understanding of mathematical intuition behind ML
+
+---
+
+## 📅 Week 2–3: Machine Learning + NLP
 
 ### 🔹 Focus Areas:
 - Supervised & Unsupervised Learning
@@ -7,5 +25,51 @@
 - NLP basics (tokenization, TF-IDF)
 - FastAPI Framework
 
+### 📚 Recommended:
+- Machine Learning Specialization
 
+### 🎯 Outcome:
+- Ability to build and evaluate ML models
+- Basic NLP system implementation
 
+---
+
+## 📅 Week 4–5: Deep Learning + Transformers
+
+### 🔹 Focus Areas:
+- Neural Networks (ANN, CNN, RNN)
+- LSTM basics
+- Transformers & Attention mechanism
+- Introduction to GANs
+- LangChain
+
+### 📚 Recommended:
+- Deep Learning Specialization
+
+### 🎯 Outcome:
+- Understanding modern AI architectures
+- Ability to explain and implement basic deep learning models
+
+---
+
+## 📅 Week 6–7: LLMs + RAG + Prompt Engineering
+
+### 🔹 Focus Areas:
+- Large Language Models (LLMs)
+- Prompt Engineering techniques
+- Embeddings and Vector Search
+- RAG (Retrieval-Augmented Generation)
+- LangGraph
+
+### 🎯 Outcome:
+- Ability to work with modern LLM systems
+- Build intelligent applications using RAG pipelines
+
+---
+
+# 💡 Final Goal
+
+By the end of 7 weeks:
+- Strong foundation in ML & AI
+- Hands-on experience with real-world tools
+- Ready for projects, internships, and interviews 🚀
